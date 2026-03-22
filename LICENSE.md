@@ -1,6 +1,7 @@
 MIT License
 
-Copyright (c) [2025] [smert999]
+Copyright (c) [2025] [smert999] — Original Work
+Copyright (c) [2026] [makotofalcon] — PostShot Converter additions
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
